@@ -1,7 +1,7 @@
 package Assignment2.Ex33;
 import java.util.Random;
 /*
- *  UCF COP3330 Summer 2021 Assignment 2 Solution
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
  *  Copyright 2021 Ryan Persad
  */
 import java.util.Scanner;
